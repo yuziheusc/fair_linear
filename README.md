@@ -6,7 +6,7 @@ This repo contains code for the publication
 #### Yuzi He, Keith Burghardt, Kristina Lerman
 
 Please cite
-[Arxiv]{https://arxiv.org/abs/1910.12854}
+[https://arxiv.org/abs/1910.12854]{Arxiv}
 
 
 # Contents
